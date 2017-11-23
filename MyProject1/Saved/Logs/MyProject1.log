@@ -840,3 +840,608 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2017.11.23-17.36.24:240][182]SourceControl: [master 9e356c9] New
 [2017.11.23-17.36.24:240][182]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2017.11.23-17.36.24:245][182]SourceControl: Commited [master 9e356c9] New.
+[2017.11.23-17.48.06:736][541]LogDirectoryWatcher: A directory notification failed for 'C:/Git/Archiviz/MyProject1/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2017.11.23-17.48.06:736][541]LogDirectoryWatcher: A directory notification failed for 'C:/Git/Archiviz/MyProject1/Content/Developers/Богдан/Collections/' because it could not be accessed. Aborting watch request...
+[2017.11.23-17.48.07:070][542]LogDirectoryWatcher: A directory notification failed for 'C:/Git/Archiviz/MyProject1/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2017.11.23-17.48.10:399][552]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.23-17.48.10:400][552]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.23-17.48.24:229][371]LogMaterial: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2017.11.23-17.48.24:230][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Materials\M_Metal_Brushed_Nickel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:230][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:257][371]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.11.23-17.48.24:257][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:257][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:260][371]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.11.23-17.48.24:260][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:260][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:263][371]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.11.23-17.48.24:263][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:263][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:266][371]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.11.23-17.48.24:267][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:267][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:269][371]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.11.23-17.48.24:270][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:270][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:272][371]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.11.23-17.48.24:272][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:272][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:295][371]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2017.11.23-17.48.24:295][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Props\Materials\M_Chair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:295][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:298][371]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2017.11.23-17.48.24:298][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Props\Materials\M_Chair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:298][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:302][371]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2017.11.23-17.48.24:325][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Props\Materials\M_StatueGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:325][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:328][371]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2017.11.23-17.48.24:329][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Props\Materials\M_StatueGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:329][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:348][371]LogStaticMesh: Building static mesh SM_Chair...
+[2017.11.23-17.48.24:521][371]LogStaticMesh: Built static mesh [0.17s] /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2017.11.23-17.48.24:560][371]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2017.11.23-17.48.24:560][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Props\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:560][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:563][371]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2017.11.23-17.48.24:563][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Props\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:563][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:565][371]LogStaticMesh: Building static mesh SM_Statue...
+[2017.11.23-17.48.24:592][371]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2017.11.23-17.48.24:699][371]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2017.11.23-17.48.24:700][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Props\Materials\M_TableRound.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:700][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:703][371]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2017.11.23-17.48.24:703][371]LogMaterial: Warning: C:\Git\Archiviz\MyProject1\Content\StarterContent\Props\Materials\M_TableRound.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.23-17.48.24:703][371]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.23-17.48.24:705][371]LogStaticMesh: Building static mesh SM_TableRound...
+[2017.11.23-17.48.24:735][371]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Audio/Starter_Background_Cue.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Audio/Starter_Birds01.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Audio/Starter_Wind05.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Audio/Starter_Wind06.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Materials/M_Basic_Floor.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Materials/M_Metal_Copper.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Props/Materials/M_Chair.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Props/Materials/M_Statue.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Props/Materials/M_StatueGlass.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Props/Materials/M_TableRound.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Props/SM_Chair.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Props/SM_Statue.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Props/SM_TableRound.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_Chair_M.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_Chair_N.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_MacroVariation.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_Statue_M.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_Statue_N.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_TableRound_M.uasset'
+[2017.11.23-17.48.27:462][371]SourceControl: rm 'MyProject1/Content/StarterContent/Textures/T_TableRound_N.uasset'
+[2017.11.23-17.48.30:520][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLvl" FILE="../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/NewLvl_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.23-17.48.30:564][723]LogSavePackage: Save=39.72ms
+[2017.11.23-17.48.30:564][723]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/NewLvl_Auto2E40501FF497D481E589460AF04349725.tmp' to '../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/NewLvl_Auto2.umap'
+[2017.11.23-17.48.30:566][723]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/NewLvl_Auto2.umap
+[2017.11.23-17.48.30:569][723]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewLvl' took 0.057
+[2017.11.23-17.48.30:569][723]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.057
+[2017.11.23-17.48.33:808][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLvl" FILE="../../../../../../Git/Archiviz/MyProject1/Content/NewLvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.23-17.48.33:856][ 94]LogSavePackage: Save=37.81ms
+[2017.11.23-17.48.33:856][ 94]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/NewLvl6DBCE4D548A1AE6DE4A6779E2900DF63.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/NewLvl.umap'
+[2017.11.23-17.48.33:860][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/NewLvl.umap
+[2017.11.23-17.48.34:277][ 94]LogFileHelpers: Saving map 'NewLvl' took 0.538
+[2017.11.23-17.48.37:403][459]Cmd: MAP LOAD FILE="../../../../../../Git/Archiviz/MyProject1/Content/NewLvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.23-17.48.37:403][459]LightingResults: New page: Lighting Build
+[2017.11.23-17.48.37:404][459]LoadErrors: New page: Loading map: NewLvl.umap
+[2017.11.23-17.48.37:405][459]MapCheck: New page: Map Check
+[2017.11.23-17.48.37:405][459]LightingResults: New page: Lighting Build
+[2017.11.23-17.48.37:439][459]LogLinker: Warning: Can't find file '/Game/NewLvl_BuiltData'
+[2017.11.23-17.48.37:439][459]LogLinker: Warning: Can't find file for asset '/Game/NewLvl_BuiltData' while loading ../../../../../../Git/Archiviz/MyProject1/Content/NewLvl.umap.
+[2017.11.23-17.48.37:439][459]LoadErrors: Error: /Game/NewLvl : Can't find file for asset. /Game/NewLvl_BuiltData
+[2017.11.23-17.48.37:452][459]LogLinker: Warning: Can't find file '/Game/NewLvl_BuiltData'
+[2017.11.23-17.48.37:452][459]LogLinker: Warning: Can't find file for asset '/Game/NewLvl_BuiltData' while loading ../../../../../../Git/Archiviz/MyProject1/Content/NewLvl.umap.
+[2017.11.23-17.48.37:458][459]LogLinker: Warning: Can't find file '/Game/NewLvl_BuiltData'
+[2017.11.23-17.48.37:458][459]LoadErrors: Failed to load /Game/NewLvl_BuiltData.NewLvl_BuiltData Referenced by PersistentLevel
+[2017.11.23-17.48.37:458][459]LogLinker: Warning: Can't find file for asset '/Game/NewLvl_BuiltData' while loading NULL.
+[2017.11.23-17.48.37:484][459]LogAIModule: Creating AISystem for world NewLvl
+[2017.11.23-17.48.37:487][459]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.23-17.48.37:527][459]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.23-17.48.37:593][459]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.622ms to complete.
+[2017.11.23-17.48.37:595][459]LogFileHelpers: Loading map 'NewLvl' took 0.192
+[2017.11.23-17.48.53:857][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:857][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:857][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:857][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:857][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:857][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:857][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:858][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:858][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:858][379]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.11.23-17.48.53:867][379]LogEditorActor: Deleted 10 Actors (0.099 secs)
+[2017.11.23-17.48.59:755][ 83]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2017.11.23-17.49.23:861][500]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Новая папка (2)\Мебель FBX\022.FBX)
+[2017.11.23-17.49.23:869][500]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.23-17.49.23:869][500]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.23-17.49.23:869][500]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.23-17.49.23:869][500]LogFbx: ItemName: Model, ItemCount : 5
+[2017.11.23-17.49.23:869][500]LogFbx: ItemName: Geometry, ItemCount : 5
+[2017.11.23-17.49.23:870][500]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.23-17.49.23:870][500]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.11.23-17.49.23:870][500]LogFbx: ItemName: Video, ItemCount : 1
+[2017.11.23-17.49.23:875][500]LogFbx: Loading FBX Scene from C:\Новая папка (2)\Мебель FBX\022.FBX
+[2017.11.23-17.49.23:935][500]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.23-17.49.27:909][500]LogFbx: Loading FBX Scene from C:\Новая папка (2)\Мебель FBX\022.FBX
+[2017.11.23-17.49.27:935][500]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.23-17.49.27:941][500]LogLinker: Can't find file '/Game/03_-_Default'
+[2017.11.23-17.49.27:941][500]LogLinker: Can't find file '/Game/03_-_Default'
+[2017.11.23-17.49.27:946][500]LogMaterial: Missing cached shader map for material 03_-_Default, compiling. 
+[2017.11.23-17.49.28:089][500]LogStaticMesh: Building static mesh 022_obj_00...
+[2017.11.23-17.49.28:166][500]LogStaticMesh: Built static mesh [0.08s] /Game/022_obj_00.022_obj_00
+[2017.11.23-17.49.28:319][500]LogLinker: Can't find file '/Game/01_-_Default'
+[2017.11.23-17.49.28:320][500]LogLinker: Can't find file '/Game/01_-_Default'
+[2017.11.23-17.49.28:343][500]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2017.11.23-17.49.28:384][500]LogStaticMesh: Building static mesh 022_obj_01...
+[2017.11.23-17.49.28:844][500]LogStaticMesh: Built static mesh [0.46s] /Game/022_obj_01.022_obj_01
+[2017.11.23-17.49.28:950][500]LogStaticMesh: Building static mesh 022_obj_02...
+[2017.11.23-17.49.28:958][500]LogStaticMesh: Built static mesh [0.02s] /Game/022_obj_02.022_obj_02
+[2017.11.23-17.49.29:008][500]LogStaticMesh: Building static mesh 022_obj_03...
+[2017.11.23-17.49.29:016][500]LogStaticMesh: Built static mesh [0.01s] /Game/022_obj_03.022_obj_03
+[2017.11.23-17.49.29:098][500]LogLinker: Can't find file '/Game/02_-_Default'
+[2017.11.23-17.49.29:098][500]LogLinker: Can't find file '/Game/02_-_Default'
+[2017.11.23-17.49.29:140][500]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2017.11.23-17.49.29:163][500]LogStaticMesh: Building static mesh 022_obj_04...
+[2017.11.23-17.49.29:191][500]LogStaticMesh: Built static mesh [0.03s] /Game/022_obj_04.022_obj_04
+[2017.11.23-17.49.29:314][500]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.23-17.49.55:613][579]SourceControl: On branch master
+[2017.11.23-17.49.55:614][579]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.11.23-17.49.55:614][579]SourceControl: Changes to be committed:
+[2017.11.23-17.49.55:614][579]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.11.23-17.49.55:614][579]SourceControl: 	modified:   MyProject1/Content/NewLvl.umap
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Starter_Background_Cue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Starter_Birds01.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Starter_Wind05.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Starter_Wind06.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Basic_Floor.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_Chair.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_Statue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Chair.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Statue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_TableRound.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Chair_M.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Chair_N.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_MacroVariation.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Statue_M.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Statue_N.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_TableRound_M.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_TableRound_N.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: Changes not staged for commit:
+[2017.11.23-17.49.55:614][579]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.11.23-17.49.55:614][579]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Config/DefaultEditor.ini
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Config/DefaultEngine.ini
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Config/DefaultGame.ini
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/Lizard/Material.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/Lizard/animforImp7b.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/Lizard/animforImp7b_PhysicsAsset.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/Lizard/animforImp7b_Skeleton.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/NewLvl_BuiltData.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Pillar_50x500.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/SM_AssetPlatform.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Wall_400x200.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Wall_400x300.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Wall_400x400.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Wall_500x500.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Wall_Door_400x300.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Wall_Door_400x400.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Wall_Window_400x300.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Architecture/Wall_Window_400x400.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Collapse01.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Collapse02.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Collapse_Cue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Explosion01.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Explosion02.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Explosion_Cue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Fire01.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Fire01_Cue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Fire_Sparks01.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Light01.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Light01_Cue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Light02.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Light02_Cue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Smoke01.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Smoke01_Cue.uasset
+[2017.11.23-17.49.55:614][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Starter_Music01.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Starter_Music_Cue.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Steam01.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Audio/Steam01_Cue.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Assets/Skybox.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Maps/Advanced_Lighting.umap
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Maps/StarterMap.umap
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Maps/StarterMap_BuiltData.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_AssetPlatform.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Basic_Wall.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Brick_Clay_New.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Concrete_Grime.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Concrete_Panels.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Concrete_Poured.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Concrete_Tiles.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Glass.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Ground_Grass.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Ground_Gravel.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Ground_Moss.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Water_Lake.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/M_Burst.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/M_Spark.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/Materials/m_flare_01.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/P_Explosion.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/P_Fire.uasset
+[2017.11.23-17.49.55:615][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/P_Smoke.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/P_Sparks.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Particles/P_Steam_Lit.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/MaterialSphere.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_Bush.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_Door.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_Frame.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_Lamp.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_Rock.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/Materials/M_Shelf.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Bush.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_CornerFrame.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Couch.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Door.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_DoorFrame.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_GlassWindow.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Lamp_Wall.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_PillarFrame.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_PillarFrame300.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Rock.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Shelf.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_Stairs.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Props/SM_WindowFrame.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Cone.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Cube.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Cylinder.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Pipe.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Pipe_180.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Pipe_90.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Plane.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Sphere.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Torus.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_TriPyramid.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Trim.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Tube.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Wedge_A.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_Wedge_B.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Shapes/Shape_WideCapsule.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Burst_M.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Bush_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Bush_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Checker_Noise_M.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset
+[2017.11.23-17.49.55:616][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Door_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Door_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Dust_Particle_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Explosion_SubUV.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Fire_SubUV.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Frame_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Frame_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Gradinet_01.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Ground_Grass_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Ground_Grass_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Ground_Moss_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Lamp_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Lamp_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Metal_Gold_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Metal_Rust_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Metal_Rust_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Metal_Steel_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Metal_Steel_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_RockMesh_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_RockMesh_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Rock_Slate_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Rock_Slate_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Shelf_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Shelf_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Single_Tile_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Smoke_SubUV.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Spark_Core.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Tech_Dot_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Tech_Dot_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Tech_Panel_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Tech_Panel_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Water_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Water_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Wood_Oak_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Wood_Oak_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Wood_Pine_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Wood_Pine_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Content/StarterContent/Textures/T_ground_Moss_D.uasset
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/AssetRegistryCache/1f683343.bin
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/AssetRegistryCache/2657c409.bin
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/AssetRegistryCache/2f5244c7.bin
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/AssetRegistryCache/52ed2538.bin
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/AssetRegistryCache/866581fd.bin
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/AssetRegistryCache/8c0e1344.bin
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/AssetRegistryCache/f0d5030c.bin
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/CachedAssetRegistry.bin
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/ActorSequence.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AlembicImporter.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AndroidDeviceProfileSelector.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AndroidMedia.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AndroidMoviePlayer.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AndroidPermission.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AppleARKit.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AppleMoviePlayer.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/ArchVisCharacter.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AssetManagerEditor.ini
+[2017.11.23-17.49.55:617][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AudioCapture.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/AvfMedia.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/CableComponent.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/CharacterAI.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/CodeLiteSourceCodeAccess.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/Compat.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/CustomMeshComponent.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/ExampleDeviceProfileSelector.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/FacialAnimation.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/Game.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/GameplayTagsEditor.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/GameplayTagsList.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/GitSourceControl.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/GoogleCloudMessaging.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/HTML5Networking.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/IOSDeviceProfileSelector.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/ImgMedia.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/ImmediatePhysics.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/KDevelopSourceCodeAccess.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/LevelSequenceEditor.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/LightPropagationVolume.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/LinuxDeviceProfileSelector.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/LocationServicesBPLibrary.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/MatineeToLevelSequence.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/MediaCompositing.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/MediaPlayerEditor.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/MobileLauncherProfileWizard.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/MobilePatchingUtils.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/NullSourceCodeAccess.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/OculusVR.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystem.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystemGooglePlay.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystemIOS.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystemNull.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystemUtils.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/Paper2D.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/PerforceSourceControl.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/PhysXVehicles.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/PluginBrowser.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/ProceduralMeshComponent.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/RuntimePhysXCooking.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/SpeedTreeImporter.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/SteamVR.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/SubversionSourceControl.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/TcpMessaging.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/UObjectPlugin.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/UdpMessaging.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/VisualStudioCodeSourceCodeAccess.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/VisualStudioSourceCodeAccess.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/WindowsMoviePlayer.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/WmfMedia.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/Config/CoalescedSourceConfigs/XCodeSourceCodeAccess.ini
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Intermediate/ReimportCache/3688439234.bin
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/MyProject1.uproject
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Saved/Autosaves/Game/Lizard/Material_Auto1.uasset
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_Auto1.uasset
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_PhysicsAsset_Auto1.uasset
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_Skeleton_Auto1.uasset
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Saved/Backup/Floor_400x400_2017-11-23-19-00-00.uasset
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Saved/Backup/Minimal_Default_2017-11-23-19-30-52.umap
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Saved/Backup/Minimal_Default_BuiltData_2017-11-23-19-31-50.uasset
+[2017.11.23-17.49.55:618][579]SourceControl: 	deleted:    MyProject1/Saved/Backup/NewLvl_2017-11-23-19-36-09.umap
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Backup/NewLvl_BuiltData_2017-11-23-19-36-09.uasset
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/CrashReportClient/UE4CC-Windows-FA26FB0549E9CBCDD5B2B7B43885F03F/CrashReportClient.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/Compat.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/DeviceProfiles.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/Editor.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	modified:   MyProject1/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/Game.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/GameUserSettings.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/Hardware.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/Input.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/Lightmass.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/OculusVR.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/Paper2D.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/PhysXVehicles.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/Scalability.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/Windows/SourceControlSettings.ini
+[2017.11.23-17.49.55:619][579]SourceControl: 	deleted:    MyProject1/Saved/Config/WorldState/3944650773.json
+[2017.11.23-17.49.55:619][579]SourceControl: 	modified:   MyProject1/Saved/Logs/MyProject1.log
+[2017.11.23-17.49.55:619][579]SourceControl: Untracked files:
+[2017.11.23-17.49.55:619][579]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.23-17.49.55:619][579]SourceControl: 	MyProject1/Saved/Autosaves/Game/NewLvl_Auto2.umap
+[2017.11.23-17.49.56:283][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/022/01_-_Default" FILE="../../../../../../Git/Archiviz/MyProject1/Content/022/01_-_Default.uasset" SILENT=true
+[2017.11.23-17.49.56:300][579]LogSavePackage: Save=13.95ms
+[2017.11.23-17.49.56:300][579]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/01_-_Default1CCE68B54A06F9B9B7A5BA91E149E6E5.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/022/01_-_Default.uasset'
+[2017.11.23-17.49.56:304][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/022/01_-_Default.uasset
+[2017.11.23-17.49.56:494][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/022/022_obj_00" FILE="../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_00.uasset" SILENT=true
+[2017.11.23-17.49.56:510][579]LogSavePackage: Save=13.03ms
+[2017.11.23-17.49.56:510][579]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/022_obj_00BC2CD549454D39B3152E898D3A0B6E02.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_00.uasset'
+[2017.11.23-17.49.56:514][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_00.uasset
+[2017.11.23-17.49.56:698][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/022/022_obj_01" FILE="../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_01.uasset" SILENT=true
+[2017.11.23-17.49.56:722][579]LogSavePackage: Save=21.52ms
+[2017.11.23-17.49.56:722][579]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/022_obj_01FE8A3E864AA5A67B5B7E13ADEDDFB98B.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_01.uasset'
+[2017.11.23-17.49.56:727][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_01.uasset
+[2017.11.23-17.49.57:017][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/022/022_obj_02" FILE="../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_02.uasset" SILENT=true
+[2017.11.23-17.49.57:033][579]LogSavePackage: Save=13.13ms
+[2017.11.23-17.49.57:033][579]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/022_obj_029692412649F2BF4CBCDC03BB5A7FAF6C.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_02.uasset'
+[2017.11.23-17.49.57:037][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_02.uasset
+[2017.11.23-17.49.57:220][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/022/022_obj_03" FILE="../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_03.uasset" SILENT=true
+[2017.11.23-17.49.57:235][579]LogSavePackage: Save=12.97ms
+[2017.11.23-17.49.57:235][579]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/022_obj_031C4F9C8E4C43889AAC66CAB002AF2DF1.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_03.uasset'
+[2017.11.23-17.49.57:239][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_03.uasset
+[2017.11.23-17.49.57:424][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/022/022_obj_04" FILE="../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_04.uasset" SILENT=true
+[2017.11.23-17.49.57:439][579]LogSavePackage: Save=12.92ms
+[2017.11.23-17.49.57:439][579]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/022_obj_042C9E5A26483414D68E30B8B2C8FE5C59.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_04.uasset'
+[2017.11.23-17.49.57:443][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/022/022_obj_04.uasset
+[2017.11.23-17.49.57:698][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/022/02_-_Default" FILE="../../../../../../Git/Archiviz/MyProject1/Content/022/02_-_Default.uasset" SILENT=true
+[2017.11.23-17.49.57:737][579]LogSavePackage: Save=36.78ms
+[2017.11.23-17.49.57:737][579]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/02_-_Default0D4487864E4304D2A5F96E84A215A062.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/022/02_-_Default.uasset'
+[2017.11.23-17.49.57:741][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/022/02_-_Default.uasset
+[2017.11.23-17.49.57:956][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/022/03_-_Default" FILE="../../../../../../Git/Archiviz/MyProject1/Content/022/03_-_Default.uasset" SILENT=true
+[2017.11.23-17.49.57:971][579]LogSavePackage: Save=13.11ms
+[2017.11.23-17.49.57:971][579]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/03_-_Default61678017496714420C9E669623B03B64.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/022/03_-_Default.uasset'
+[2017.11.23-17.49.57:975][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/022/03_-_Default.uasset
+[2017.11.23-17.50.19:401][976]LogActorFactory: Actor Factory created 022_obj_00
+[2017.11.23-17.50.19:403][976]LogActorFactory: Actor Factory created 022_obj_01
+[2017.11.23-17.50.19:403][976]LogActorFactory: Actor Factory created 022_obj_02
+[2017.11.23-17.50.19:404][976]LogActorFactory: Actor Factory created 022_obj_03
+[2017.11.23-17.50.19:404][976]LogActorFactory: Actor Factory created 022_obj_04
+[2017.11.23-17.50.22:618][329]LogActorFactory: Actor Factory created 022_obj_00
+[2017.11.23-17.50.22:636][329]LogActorFactory: Actor Factory created 022_obj_01
+[2017.11.23-17.50.22:652][329]LogActorFactory: Actor Factory created 022_obj_02
+[2017.11.23-17.50.22:668][329]LogActorFactory: Actor Factory created 022_obj_03
+[2017.11.23-17.50.22:686][329]LogActorFactory: Actor Factory created 022_obj_04
+[2017.11.23-17.50.46:990][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (022_obj_04)
