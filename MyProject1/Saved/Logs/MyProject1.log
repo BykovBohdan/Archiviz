@@ -636,3 +636,194 @@ LogInit: Object subsystem initialized
 [2017.11.23-17.00.55:164][992]SourceControl:   (use "git add <file>..." to include in what will be committed)
 [2017.11.23-17.00.55:165][992]SourceControl: 	MyProject1/
 [2017.11.23-17.00.55:165][992]SourceControl: nothing added to commit but untracked files present (use "git add" to track)
+[2017.11.23-17.10.54:392][ 27]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.23-17.10.54:392][ 27]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.23-17.27.25:882][828]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.23-17.27.25:882][828]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.23-17.29.52:612][598]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.23-17.29.52:612][598]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.23-17.30.30:274][682]LogSlate: Took 0.025327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.23-17.30.30:823][682]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Lizard\Assets\Hero\animforImp7b.fbx)
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: NodeAttribute, ItemCount : 74
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: Model, ItemCount : 75
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: Deformer, ItemCount : 71
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: AnimationCurveNode, ItemCount : 213
+[2017.11.23-17.30.31:006][682]LogFbx: ItemName: AnimationCurve, ItemCount : 639
+[2017.11.23-17.30.31:058][682]LogFbx: Loading FBX Scene from D:\Lizard\Assets\Hero\animforImp7b.fbx
+[2017.11.23-17.30.31:136][682]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.23-17.30.39:606][682]LogFbx: Loading FBX Scene from D:\Lizard\Assets\Hero\animforImp7b.fbx
+[2017.11.23-17.30.39:651][682]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.23-17.30.39:655][682]LogFbx: =================================================
+[2017.11.23-17.30.39:655][682]LogFbx: Dumping Node START [Cube] 
+[2017.11.23-17.30.39:655][682]LogFbx: 	Total Deformer Count -86807088.
+[2017.11.23-17.30.39:655][682]LogFbx: 		[Node 1] metarig (Type Skin).
+[2017.11.23-17.30.39:655][682]LogFbx: =================================================
+[2017.11.23-17.30.39:655][682]LogFbx: 	Attribute (Mesh) Type (4).
+[2017.11.23-17.30.39:655][682]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2017.11.23-17.30.39:655][682]LogFbx: Dumping Node END [Cube]
+[2017.11.23-17.30.39:657][682]LogFbx: =================================================
+[2017.11.23-17.30.39:657][682]LogFbx: Dumping Node START [Cube] 
+[2017.11.23-17.30.39:657][682]LogFbx: 	Total Deformer Count -86807088.
+[2017.11.23-17.30.39:657][682]LogFbx: 		[Node 1] metarig (Type Skin).
+[2017.11.23-17.30.39:657][682]LogFbx: =================================================
+[2017.11.23-17.30.39:657][682]LogFbx: 	Attribute (Mesh) Type (4).
+[2017.11.23-17.30.39:657][682]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2017.11.23-17.30.39:657][682]LogFbx: Dumping Node END [Cube]
+[2017.11.23-17.30.39:659][682]LogFbx: Valid bind pose for Pose (Mesh) - Cube
+[2017.11.23-17.30.39:690][682]LogLinker: Can't find file '/Game/Lizard/Material'
+[2017.11.23-17.30.39:690][682]LogLinker: Can't find file '/Game/Lizard/Material'
+[2017.11.23-17.30.39:750][682]LogMaterial: Warning: Material /Game/Lizard/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2017.11.23-17.30.39:773][682]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.11.23-17.30.39:976][682]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.11.23-17.30.40:157][682]LogFbx: Triangulating skeletal mesh Cube
+[2017.11.23-17.30.40:467][682]LogFbx: Warning: Bones digested - 91  Depth of hierarchy - 13
+[2017.11.23-17.30.41:072][682]LogSkeletalMesh: Section 0: 1090 vertices, 33 active bones
+[2017.11.23-17.30.41:695][682]LogSlate: Took 0.367299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.23-17.30.41:714][682]LogSkeletalMesh: Section 0: Material=0, 2176 triangles
+[2017.11.23-17.30.41:830][682]LogLinker: Can't find file '/Game/Lizard/animforImp7b_Skeleton'
+[2017.11.23-17.30.41:830][682]LogLinker: Can't find file '/Game/Lizard/animforImp7b_Skeleton'
+[2017.11.23-17.30.41:853][682]LogLinker: Can't find file '/Game/Lizard/animforImp7b_PhysicsAsset'
+[2017.11.23-17.30.41:853][682]LogLinker: Can't find file '/Game/Lizard/animforImp7b_PhysicsAsset'
+[2017.11.23-17.30.42:071][682]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2017.11.23-17.30.42:469][682]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.23-17.30.42:469][682]FBXImport: Warning: The following bones are missing from the bind pose:
+head_end  
+f_index.03.L_end  
+thumb.03.L_end  
+f_middle.03.L_end  
+f_ring.03.L_end  
+f_pinky.03.L_end  
+f_index.03.R_end  
+thumb.03.R_end  
+f_middle.03.R_end  
+f_ring.03.R_end  
+f_pinky.03.R_end  
+shin.L_end  
+shin.R_end  
+hips.006_end  
+foot.R_end  
+toe.R_end  
+heel.02.R_end  
+foot.L_end  
+toe.L_end  
+heel.02.L_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2017.11.23-17.30.42:469][682]FBXImport: Warning: Mesh 'Cube' has no UV set. Creating a default set. 
+[2017.11.23-17.30.53:656][510]LogSavePackage: Save=746.79ms
+[2017.11.23-17.30.53:656][510]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/Minimal_Default_Auto1398C1A2D4784714753F978AD8CA6C157.tmp' to '../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2017.11.23-17.30.53:659][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2017.11.23-17.30.53:690][510]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.975
+[2017.11.23-17.30.53:690][510]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.975
+[2017.11.23-17.30.53:692][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lizard/animforImp7b] ([1] browsable assets)...
+[2017.11.23-17.30.53:706][510]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Lizard/animforImp7b.animforImp7b]
+[2017.11.23-17.30.53:707][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lizard/animforImp7b]
+[2017.11.23-17.30.53:707][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lizard/animforImp7b" FILE="../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.23-17.30.53:745][510]LogSavePackage: Save=35.36ms
+[2017.11.23-17.30.53:745][510]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/animforImp7b_Auto1645F514348CDD9F8E74B61A4E3A6B5D6.tmp' to '../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_Auto1.uasset'
+[2017.11.23-17.30.53:747][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_Auto1.uasset
+[2017.11.23-17.30.53:749][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lizard/Material] ([1] browsable assets)...
+[2017.11.23-17.30.53:758][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Lizard/Material.Material]
+[2017.11.23-17.30.53:759][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lizard/Material]
+[2017.11.23-17.30.53:759][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lizard/Material" FILE="../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/Material_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.23-17.30.53:786][510]LogSavePackage: Save=25.25ms
+[2017.11.23-17.30.53:786][510]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/Material_Auto167CEB6104624D135FD816AB856C438D4.tmp' to '../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/Material_Auto1.uasset'
+[2017.11.23-17.30.53:788][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/Material_Auto1.uasset
+[2017.11.23-17.30.53:789][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lizard/animforImp7b_Skeleton] ([1] browsable assets)...
+[2017.11.23-17.30.53:789][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lizard/animforImp7b_Skeleton]
+[2017.11.23-17.30.53:797][510]LogSavePackage: Save=5.90ms
+[2017.11.23-17.30.53:797][510]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/animforImp7b_Skeleton_Auto17D7E32BC4B08EBFADEC7AC83C0D2CE7E.tmp' to '../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_Skeleton_Auto1.uasset'
+[2017.11.23-17.30.53:799][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_Skeleton_Auto1.uasset
+[2017.11.23-17.30.53:800][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lizard/animforImp7b_PhysicsAsset] ([1] browsable assets)...
+[2017.11.23-17.30.53:810][510]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Lizard/animforImp7b_PhysicsAsset.animforImp7b_PhysicsAsset]
+[2017.11.23-17.30.53:810][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lizard/animforImp7b_PhysicsAsset]
+[2017.11.23-17.30.53:827][510]LogSavePackage: Save=14.76ms
+[2017.11.23-17.30.53:827][510]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/animforImp7b_PhysicsAsset_Auto19E7ED44B4AC2774C9C7F4D9F2AC5C7DF.tmp' to '../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_PhysicsAsset_Auto1.uasset'
+[2017.11.23-17.30.53:829][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Saved/Autosaves/Game/Lizard/animforImp7b_PhysicsAsset_Auto1.uasset
+[2017.11.23-17.30.53:829][510]LogFileHelpers: Auto-saving content packages took 0.138
+[2017.11.23-17.31.23:767][ 24]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.23-17.31.26:617][346]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.23-17.31.34:241][250]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2017.11.23-17.31.35:873][250]EditorErrors: Warning: No assets to check in!
+[2017.11.23-17.31.43:611][125]LogSavePackage: Save=85.89ms
+[2017.11.23-17.31.43:611][125]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/Minimal_Default5B1394214F11DE3B21D23494209D4733.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.11.23-17.31.43:620][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.11.23-17.31.43:662][125]LogFileHelpers: Saving map 'Minimal_Default' took 0.342
+[2017.11.23-17.31.43:677][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lizard/animforImp7b" FILE="../../../../../../Git/Archiviz/MyProject1/Content/Lizard/animforImp7b.uasset" SILENT=true
+[2017.11.23-17.31.43:697][125]LogSavePackage: Save=16.87ms
+[2017.11.23-17.31.43:697][125]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/animforImp7b7AA974BE48307FA54E3900865F2C5AF3.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/Lizard/animforImp7b.uasset'
+[2017.11.23-17.31.43:705][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/Lizard/animforImp7b.uasset
+[2017.11.23-17.31.43:977][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lizard/Material" FILE="../../../../../../Git/Archiviz/MyProject1/Content/Lizard/Material.uasset" SILENT=true
+[2017.11.23-17.31.43:993][125]LogSavePackage: Save=13.40ms
+[2017.11.23-17.31.43:993][125]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/Material5F9BB5EC48D2CEE800B71E8B6F1AE0D3.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/Lizard/Material.uasset'
+[2017.11.23-17.31.44:000][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/Lizard/Material.uasset
+[2017.11.23-17.31.44:203][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lizard/animforImp7b_Skeleton" FILE="../../../../../../Git/Archiviz/MyProject1/Content/Lizard/animforImp7b_Skeleton.uasset" SILENT=true
+[2017.11.23-17.31.44:211][125]LogSavePackage: Save=5.36ms
+[2017.11.23-17.31.44:211][125]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/animforImp7b_Skeleton3094838C4DF60988AF95DFA2D93261F8.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/Lizard/animforImp7b_Skeleton.uasset'
+[2017.11.23-17.31.44:218][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/Lizard/animforImp7b_Skeleton.uasset
+[2017.11.23-17.31.44:354][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lizard/animforImp7b_PhysicsAsset" FILE="../../../../../../Git/Archiviz/MyProject1/Content/Lizard/animforImp7b_PhysicsAsset.uasset" SILENT=true
+[2017.11.23-17.31.44:373][125]LogSavePackage: Save=16.61ms
+[2017.11.23-17.31.44:373][125]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/animforImp7b_PhysicsAsset5C5EC9D440EE3042D281F798114D8455.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/Lizard/animforImp7b_PhysicsAsset.uasset'
+[2017.11.23-17.31.44:379][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/Lizard/animforImp7b_PhysicsAsset.uasset
+[2017.11.23-17.31.50:081][749]LogSavePackage: Save=84.65ms
+[2017.11.23-17.31.50:081][749]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/Minimal_DefaultF5C0713B4973412F2D0DBC819A1B1BF8.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.11.23-17.31.50:086][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.11.23-17.31.50:150][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../Git/Archiviz/MyProject1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2017.11.23-17.31.50:234][749]LogSavePackage: Save=74.78ms
+[2017.11.23-17.31.50:234][749]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/Minimal_Default_BuiltDataE85E1AD14750BFC0429FB6BE9C59CDA1.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.11.23-17.31.50:236][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.11.23-17.31.53:351][121]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.23-17.33.16:731][ 40]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.23-17.33.16:745][ 40]LightingResults: New page: Lighting Build
+[2017.11.23-17.33.16:746][ 40]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.11.23-17.33.16:784][ 40]MapCheck: New page: Map Check
+[2017.11.23-17.33.16:785][ 40]LightingResults: New page: Lighting Build
+[2017.11.23-17.33.17:184][ 40]LogAIModule: Creating AISystem for world Untitled_1
+[2017.11.23-17.33.17:189][ 40]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.23-17.33.17:217][ 40]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.23-17.33.17:299][ 40]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.94ms to complete.
+[2017.11.23-17.33.17:299][ 40]LogFileHelpers: Loading map 'Template_Default' took 0.625
+[2017.11.23-17.33.20:747][434]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2017.11.23-17.33.34:607][ 88]Cmd: EDIT COPY
+[2017.11.23-17.33.35:112][ 88]Cmd: EDIT PASTE
+[2017.11.23-17.33.36:364][219]Cmd: EDIT PASTE
+[2017.11.23-17.33.36:622][245]Cmd: EDIT COPY
+[2017.11.23-17.33.41:663][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.23-17.33.42:496][914]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (animforImp7b2)
+[2017.11.23-17.33.54:053][286]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (animforImp7b)
+[2017.11.23-17.33.57:143][646]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (animforImp7b2)
+[2017.11.23-17.33.59:877][966]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (animforImp7b3)
+[2017.11.23-17.34.05:623][642]Cmd: EDIT COPY
+[2017.11.23-17.34.05:841][667]Cmd: EDIT PASTE
+[2017.11.23-17.34.08:431][971]Cmd: EDIT COPY
+[2017.11.23-17.34.08:691][  1]Cmd: EDIT PASTE
+[2017.11.23-17.34.12:066][399]Cmd: EDIT COPY
+[2017.11.23-17.34.12:329][429]Cmd: EDIT PASTE
+[2017.11.23-17.34.15:354][782]Cmd: EDIT COPY
+[2017.11.23-17.34.15:598][810]Cmd: EDIT PASTE
+[2017.11.23-17.34.18:077][100]Cmd: EDIT COPY
+[2017.11.23-17.34.18:322][128]Cmd: EDIT PASTE
+[2017.11.23-17.34.20:335][362]Cmd: EDIT COPY
+[2017.11.23-17.34.20:566][388]Cmd: EDIT PASTE
+[2017.11.23-17.34.24:014][793]Cmd: EDIT COPY
+[2017.11.23-17.34.24:249][820]Cmd: EDIT PASTE
+[2017.11.23-17.34.32:492][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.23-17.34.36:571][277]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2017.11.23-17.34.45:792][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLvl" FILE="../../../../../../Git/Archiviz/MyProject1/Content/NewLvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.23-17.34.45:844][277]LogSavePackage: Save=40.41ms
+[2017.11.23-17.34.45:844][277]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/NewLvl83F10F464B11980E3FFC279C9B70FCA3.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/NewLvl.umap'
+[2017.11.23-17.34.45:848][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/NewLvl.umap
+[2017.11.23-17.34.46:177][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLvl_BuiltData" FILE="../../../../../../Git/Archiviz/MyProject1/Content/NewLvl_BuiltData.uasset" SILENT=true
+[2017.11.23-17.34.46:202][277]LogSavePackage: Save=22.56ms
+[2017.11.23-17.34.46:202][277]LogSavePackage: Moving '../../../../../../Git/Archiviz/MyProject1/Saved/NewLvl_BuiltData115A36D2456D1CC4618517B055FAFF26.tmp' to '../../../../../../Git/Archiviz/MyProject1/Content/NewLvl_BuiltData.uasset'
+[2017.11.23-17.34.46:203][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/Archiviz/MyProject1/Content/NewLvl_BuiltData.uasset
+[2017.11.23-17.34.46:368][277]LogFileHelpers: Saving map 'NewLvl' took 0.663
+[2017.11.23-17.34.46:452][284]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2017.11.23-17.34.51:456][879]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
