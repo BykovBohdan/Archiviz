@@ -1482,9 +1482,3 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2017.11.23-17.52.15:906][443]LogOutputDevice: Error: [Callstack] 0x00000000804E0D51 ntdll.dll!UnknownFunction []
 [2017.11.23-17.52.15:906][443]LogOutputDevice: Error: 
 [2017.11.23-17.52.15:912][443]LogStats:                SubmitErrorReport -  0.000 s
-[2017.11.23-17.52.23:736][443]LogStats:                    SendNewReport -  7.824 s
-[2017.11.23-17.52.23:736][443]LogStats:             FDebug::EnsureFailed -  9.082 s
-[2017.11.23-17.52.41:716][443]SourceControl: Error: fatal: pathspec 'C:/Git/Archiviz/MyProject1/MyProject1.uproject' did not match any files
-[2017.11.23-17.52.41:768][443]LogSourceControl: FGitCheckInWorker: commit successful
-[2017.11.23-17.52.41:885][443]SourceControl: Error: error: pathspec 'C:/Git/Archiviz/MyProject1/MyProject1.uproject' did not match any file(s) known to git.
-[2017.11.23-17.52.51:129][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
